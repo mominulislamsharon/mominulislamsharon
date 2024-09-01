@@ -5,7 +5,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=140&duration=4000&lines=Hi+There!+👋;+I'm+Mominul+Islam+Sharon;+I'm+a+passionate+front-end+developer!;&color=fff" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=140&duration=4000&lines=Hi+There!+👋;+I'm+Mominul+Islam+Sharon;&color=black" />
 </h1>
 
 <h3 align="center">A passionate frontend developer from Bd</h3>

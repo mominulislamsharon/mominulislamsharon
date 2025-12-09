@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://i.ibb.co.com/sRStf3B/Colorful-Photo-Rainbow-Facebook-Cover.jpg" alt="logo" />
+  <img src="[https://i.ibb.co.com/sRStf3B/Colorful-Photo-Rainbow-Facebook-Cover.jpg](https://i.postimg.cc/yNMpgjVm/Colorful-Photo-Rainbow-Facebook-Cover.png)" alt="logo" />
 </div>
 
 

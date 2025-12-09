@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://i.postimg.cc/yNMpgjVm/Colorful-Photo-Rainbow-Facebook-Cover.png" alt="logo" />
+  <img src="https://ibb.co/HT8Rz1gc" alt="logo" />
 </div>
 
 
@@ -15,7 +15,7 @@
 
 <div align="center">
    <h1>🎓 About Me :</h1>
-   <p>Hello, I'm Mominul Islam Sharon, a passionate Full Stack Developer (MERN Stack ) with expertise in HTML, CSS, Tailwind CSS, and JavaScript. I excel at crafting dynamic, responsive web applications using React.js, Next.js, and Redux Toolkit, Typescript, ensuring a seamless user experience. My backend skills include working with Node.js, MongoDB, Express.js, and Firebase, JWT, enabling me to build robust and scalable full-stack applications.</p>
+   <p>Hello, I'm Mominul Islam Sharon, a passionate Full Stack Developer (MERN Stack ) with expertise in HTML, CSS, Tailwind CSS, and JavaScript. I excel at crafting dynamic, responsive web applications using React.js, Next.js, Redux Toolkit, and Typescript, ensuring a seamless user experience. My backend skills include working with Node.js, MongoDB, Express.js, and Firebase, as well as JWT, enabling me to build robust and scalable full-stack applications.</p>
    <br/>
    <p style="margin-top: 5px;">I am driven by a desire to continuously improve and push the boundaries of what's possible in web development. Let's connect and create something extraordinary together!</p>
   <br/>

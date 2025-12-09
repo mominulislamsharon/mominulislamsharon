@@ -19,14 +19,15 @@
    <br/>
    <p style="margin-top: 5px;">I am driven by a desire to continuously improve and push the boundaries of what's possible in web development. Let's connect and create something extraordinary together!</p>
   <br/>
- <p>💬 <a href="mailto:mominulislamsharon@gmail.com.com">mominulislamsharon@gmail.com</a></p> 
+ <p>💬 <a href="mailto:mominulislamsharon@gmail.com">mominulislamsharon@gmail.com</a></p> 
 </div>
 
 <hr/>
 <div align="center">
    <h1> 🌐 Socials:</h1> 
-  <p align="center">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/mominul-islam-sharon/](https://www.linkedin.com/in/mominul-islam-sharon-sh01/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mominul-islam-sharon/" height="30" width="40" /></a>
+  <p align="center"><a href="https://www.linkedin.com/in/mominul-islam-sharon-sh01/" target="_blank" rel="noopener">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
 <a href="[https://fb.com/https://www.facebook.com/profile.php?id=100091491131174](https://www.facebook.com/profile.php?id=61578255011259)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100091491131174" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/mominul_islam_sharon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mominul_islam_sharon/" height="30" width="40" /></a>
 

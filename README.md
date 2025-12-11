@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://positive-sapphire-5rdbxjp58e-v7wg34veik.edgeone.dev/Colorful%20Photo%20Rainbow%20Facebook%20Cover.png" alt="logo" />
+  <img src="https://i.ibb.co/tPN2dmPR/Colorful-Photo-Rainbow-Facebook-Cover.png" alt="logo" />
 </div>
 
 
